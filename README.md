@@ -22,6 +22,12 @@ bench install-app orbitcabs
 
 [![Watch the video](https://youtu.be/Ez8F0nW6S-w?si=AtZCNqDuB4H8fth4)
 
+<video width="600" controls>
+  <source src="[https://github.com/user/repo/assets/123456/demo.mp4](https://youtu.be/Ez8F0nW6S-w?si=AtZCNqDuB4H8fth4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 
 ### Contributing
 
