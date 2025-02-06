@@ -15,6 +15,8 @@ bench get-app $URL_OF_THIS_REPO --branch main
 bench install-app orbitcabs
 ```
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ez8F0nW6S-w?si=ZCY_lyVq577_2xWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Contributing
 
 This app uses `pre-commit` for code formatting and linting. Please [install pre-commit](https://pre-commit.com/#installation) and enable it for this repository:
